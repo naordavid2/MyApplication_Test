@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="welcome_message">Hello and Welcome to the Memory Game</string>
+    <string name="welcome_name">Name:</string>
+    <string name="welcome_age">Age:</string>
+    <string name="welcome_start">START PLAY</string>
 </resources>
